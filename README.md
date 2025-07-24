@@ -18,7 +18,7 @@ Modern ve responsive banner. E-ticaret siteleri için tasarlandı.
 ```
 demo-aysu/
 ├── index.html    # Ana sayfa
-├── script.js     # Tüm JavaScript kodu
+├── aysu_nur_terzi.js     # Tüm JavaScript kodu
 └── README.md     # Bu dosya
 ```
 
